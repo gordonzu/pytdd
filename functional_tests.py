@@ -1,5 +1,5 @@
 from selenium import webdriver
-import unittest
+import redgreenunittest as unittest
 
 class NewVisitorTest(unittest.TestCase):
 
