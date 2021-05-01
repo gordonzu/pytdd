@@ -120,5 +120,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #TEST_RUNNER = "redgreenunittest.django.simple.RedGreenTestSuiteRunner"
-TEST_RUNNER = "redgreenunittest.django.runner.RedGreenDiscoverRunner"
+#TEST_RUNNER = "redgreenunittest.django.runner.RedGreenDiscoverRunner"
 
